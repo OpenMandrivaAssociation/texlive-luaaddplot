@@ -1,6 +1,6 @@
 Name:		texlive-luaaddplot
 Version:	62842
-Release:	1
+Release:	2
 Summary:	An extension to pgfplots' \addplot macro
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luaaddplot
