@@ -3,7 +3,7 @@ Version:	72350
 Release:	1
 Summary:	An extension to pgfplots' \addplot macro
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luaaddplot
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luaaddplot
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaaddplot.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaaddplot.doc.r%{version}.tar.xz
